@@ -1,2 +1,2 @@
 # Coder-s-Network
-![Screenshot](screenshot.png)
+![Screenshot](s.png)
